@@ -1,2 +1,2 @@
-# IRFS_ABM
-code for IRFS abm system
+# Introduction
+Code for Rice-Fish intergrated system
